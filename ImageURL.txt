@@ -1,3 +1,5 @@
+banner : https://pixabay.com/illustrations/banner-header-continents-countries-1158378/
+
 brazil : https://i.pinimg.com/originals/c3/7b/e2/c37be2324e390963f63eb9b9462bd669.jpg
 france : https://th.bing.com/th/id/R.f119a745db6e1ee23fcde0ab35ff4b22?rik=n2WQO%2fROFS8lZA&riu=http%3a%2f%2fimg-4.linternaute.com%2fx9O7pE5_oQFZgU8Iqg3jdhE-900%3d%2f1240x%2fsmart%2fimage-cms%2f2377659.jpg&ehk=dcmPc8aqIGVeFmzglHqfhWwjc0kHh1wdld0P4x3y64w%3d&risl=&pid=ImgRaw&r=0
 germany : https://th.bing.com/th/id/R.11ef7be2be368d01365e3f320feec081?rik=dUZZ053FRtlywQ&pid=ImgRaw&r=0
