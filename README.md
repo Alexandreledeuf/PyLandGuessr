@@ -32,7 +32,8 @@
 - The program keeps the geolocation of the country of the image for when the player makes a wrong prediction
 - The geolocation proposed by the player is converted into a country if it corresponds to one of them
   -  If the country proposed is the same as the one in the image, then it's a winner
-  -  If the proposed country is not the same and if there are any attempts left, then the program calculates the distance between the proposed country and the searched one and adds the direction (cardinal point) where it is located.
+  -  If the proposed country is not the same and if there are any attempts left, then the program calculates the distance between the proposed country and the searched one (Haversine Formula : determine distance between 2 points on a sphere using Lat and Lon) and adds the direction (cardinal point) where it is located. 
+<p align="center"><img src="images/ImageReadme/HaversineFormula.PNG"\></p>
   
 # Images of the game
 
