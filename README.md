@@ -21,7 +21,7 @@
 - The window size is 1200*600
 - The mouse position is converted to X and Y in this window
 - Position X = 0 and Y = 0 is equivalent to longitude = 0 and latitude = 0
-- 
+
 <p align="center"><img src="images/ImageReadme/geolocalisationLat0Lon0.jpg"\></p>
 
 - X and Y are converted into Lon and Lat using coefficients calculated by me (the precision is not perfect, see excel)
