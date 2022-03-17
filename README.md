@@ -46,7 +46,7 @@
 
 - Image game Nothing found
 
-<p align="center"><img src="images/ImageReadme/geussNothing.PNG"\></p>
+<p align="center"><img src="images/ImageReadme/guessNothing.PNG"\></p>
 
 - Image game good guess
 
