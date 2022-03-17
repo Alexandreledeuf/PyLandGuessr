@@ -35,3 +35,19 @@
   -  If the proposed country is not the same and if there are any attempts left, then the program calculates the distance between the proposed country and the searched one and adds the direction (cardinal point) where it is located.
   
 # Images of the game
+
+- Image game launched
+
+<p align="center"><img src="images/ImageReadme/gameLaunched.PNG"\></p>
+
+- Image game wrong guess
+
+<p align="center"><img src="images/ImageReadme/wrongGuess.PNG"\></p>
+
+- Image game Nothing found
+
+<p align="center"><img src="images/ImageReadme/geussNothing.PNG"\></p>
+
+- Image game good guess
+
+<p align="center"><img src="images/ImageReadme/GoodGuess.PNG"\></p>
