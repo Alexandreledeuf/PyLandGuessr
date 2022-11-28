@@ -17,7 +17,7 @@
   - If you don't guess but still have some attempts left, the program shows you the distance and direction to which the country is located 
   - If you don't guess and you have no more attempts left, you have lost.
   
-# How it work
+# How it works
 - The window size is 1200*600
 - The mouse position is converted to X and Y in this window
 - Position X = 0 and Y = 0 is equivalent to longitude = 0 and latitude = 0
